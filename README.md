@@ -47,4 +47,4 @@ To design a scalable and analytics-ready database that enables:
 - What are the most popular order items?
 - How many deliveries are completed vs pending?
 
-(I
+
